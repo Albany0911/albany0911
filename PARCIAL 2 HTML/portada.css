@@ -1,0 +1,150 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+body{
+	background: #D5D5D5;
+}
+
+.cabeza{
+	position: absolute;
+	width: ;
+	font-family: Arial;
+	left: 1px;
+
+}
+
+.cabeza ul li{
+	list-style: none;
+}
+
+.cabeza li a{
+	background: #6D9BF1;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	width: 269.6px;
+	height: 50px;
+	text-align: center;
+	font-size: 16px
+
+}
+
+.cabeza li a:hover{
+	background-color: #434343;
+
+}
+
+.cabeza li{
+
+	float: left;
+}
+
+.subcuerpo{
+	position: relative;
+	bottom: ; 
+	top: 120px;
+	left: 230px;
+	right: ;
+}
+
+.subcuerpo{
+	font-family: Arial;
+	height: 490px;
+	width: 900px;
+	margin: 0px;
+	padding: 0px;
+	background: ;
+}
+
+.title{
+
+	width: 560px;
+	height: ;
+	
+
+}
+
+.title{
+	position: relative;
+	left: 430px;
+	top: 90px;
+	bottom: ;
+	font-size: 20px;
+	font-family: Latin Modern Roman 10;
+}
+
+.title2{
+	font-size: 16px;
+	font-family: Arial;
+}
+
+.title3{
+	font-size: 16px;
+	font-family: Arial;
+}
+
+.footpie{
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height:100px;
+	background: #6D9BF1;
+}
+
+.footpie{
+	top: 190px;
+	bottom: ;
+
+}
+.raya{
+	position: relative;
+	bottom: ;
+	top: 105px;
+	border: #808080 1px solid;
+}
+
+.dividor{
+	position: relative;
+	bottom: ;
+	top: 185px;
+	border: #808080 1px solid;
+}
+
+.servidor1{
+	position: absolute;
+	left: 600px;
+}
+.servidor2{
+	position: relative;
+	top: ;
+	bottom: ;
+	left: ;
+	right: ;
+
+}
+.servidor3{
+	position: relative;
+	top: 50px;
+	bottom: ;
+	left: 600px;
+	right: ;
+
+
+}
+.servidor4{
+	position: absolute;
+	top: ;
+	bottom: 100px;
+	left: 300px;
+	right: ;
+
+}
+.servidor5{
+	position: relative;
+	left: ;
+	bottom:150px;
+}
