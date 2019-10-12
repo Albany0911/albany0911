@@ -1,0 +1,180 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.cabecera{
+	position: absolute;
+	width: ;
+	font-family: Arial;
+	left: 1px; 
+
+
+}
+
+.cabecera ul li{
+	list-style: none;
+}
+
+.cabecera li a{
+	background: #808080;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	width: 269.6px;
+	height: 50px;
+	text-align: center;
+	font-size: 16px
+
+}
+
+.cabecera li a:hover{
+	background-color: #434343;
+
+}
+
+.cabecera li{
+
+	float: left;
+}
+
+.titulo{
+
+	width: 490px;
+	height: ;
+	
+
+}
+
+.titulo{
+	position: relative;
+	left: 580px;
+	top: 90px;
+	bottom: ;
+	font-size: 20px;
+	font-family: Latin Modern Roman 10;
+}
+
+.titulo4{
+	font-size: 16px;
+	font-family: Arial;
+}
+
+.titulo5{
+	font-size: 16px;
+	font-family: Arial;
+}
+
+.pagina_pie{
+	position: relative;
+	padding: 0px;
+	margin: 0px;
+	width: 100%;
+	height:100px;
+	background: #808080;
+}
+
+.pagina_pie{
+	top: 250px;
+	bottom: ;
+
+}
+.rayita{
+	position: relative;
+	bottom: ;
+	top: 105px;
+	border: #808080 1px solid;
+}
+
+.separador{
+	position: relative;
+	bottom: ;
+	top: 245px;
+	border: #808080 1px solid;
+}
+
+.contenido5{
+	position: relative;
+	top: 160px;
+	bottom: ;
+	left: 30px;
+	right: ;
+}
+
+.contenido5{
+	width: 400px;
+	background: #808080;
+	font-family: Arial;	
+	border: #000000 5px solid;	
+}
+
+.Nom1{
+	position: relative;
+	left: 20px;
+}
+
+.entrada1{
+	position: relative;
+	left: 20px;
+}
+
+.Apll2{
+	position: relative;
+	left: 20px;
+}
+
+.entrada2{
+	position: relative;
+	left: 20px;
+}
+
+.Gmail{
+	position: relative;
+	left: 20px;
+}
+
+
+.correo{
+	position: relative;
+	top: ;
+	bottom: ;
+	left: 36px;
+	right: ;
+}
+
+.mensegger{
+	position: relative;
+	left: 30px;
+}
+
+.textos{
+	position: relative;
+	top: ;
+	bottom: ;
+	left: 30px;
+	right: ;
+	width: 335px;
+	height: 255px;
+}
+
+.button_enviar{
+	position: relative;
+	bottom: 10px;
+	left: 280px;
+	width: 90px;
+	height: 20px;
+}
+
+.informacion{
+	position: relative;
+	top: 10px;
+	left: 110px;
+	font-size: 30px;
+}
+
+.imagen2{
+	position: absolute;
+	top: 180px;
+	left: 600px;
+	width: 510px;
+}
